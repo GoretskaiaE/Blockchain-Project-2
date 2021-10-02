@@ -1,13 +1,19 @@
 # Decentralized Star Notary Service Project
 
 RC-721 Token Name: Cool Star Token
+
 ERC-721 Token Symbol: CST
+
 “Token Address” on the Rinkeby Network: 0x42a0F89492E94f3f41bb267cDd10673b542398d1
 
 Truffle version: v5.4.12
+
 OpenZeppelin version: 2.3
+
 Solidity v0.5.16 (solc-js)
+
 Node v10.16.3
+
 Web3.js v1.5.3
 
 
@@ -75,6 +81,7 @@ Read this https://metamask.zendesk.com/hc/en-us/articles/360058238591 to know mo
 
 ## Appendix
 Output after truffle migrate --reset --network rinkeby
+```bash
 Migrations dry-run (simulation)
 ===============================
 > Network name:    'rinkeby-fork'
@@ -186,3 +193,4 @@ Summary
 =======
 > Total deployments:   2
 > Final cost:          0.02501955 ETH
+```
