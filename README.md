@@ -47,15 +47,20 @@ npm run dev
 Open http://localhost:8080/ in browser with installed Metamask 
 
 Import an account from Ganashe to Metamask
+
 Connect the account to http://localhost:8080/ in Metamask
 
-On http://localhost:8080/ 
+On http://localhost:8080/
+
 insert Star Name, Star ID
+
 click button 'Create Star'
+
 confirm transaction in Metamask
 
 
 insert Star ID of created star in field under 'Look up a Star' header
+
 click button 'Look Up a Star'
 
 
@@ -72,6 +77,7 @@ npm run dev
 ```
 
 Open http://localhost:8080/ in browser with installed Metamask 
+
 Select Rinkeby Test Network
 
 Create star!
